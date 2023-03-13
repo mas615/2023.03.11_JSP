@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hellow world</title>
+<title>JSP 게시판 웹 사이트</title>
 </head>
 <body>
-hello world!
+	<script>
+		location.href = 'login.jsp';
+	</script>
 </body>
 </html>
